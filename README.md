@@ -1,0 +1,2 @@
+# FPT-pricing-analysis
+In this project, I am going to use simple regression model on machine learning to build the relationship between volume as independent variable and the dependent variable as we can see that the close price of the day. My objective is to find the close price of the following days from the volume buying and selling during in the past three years. My desired in this project is to find if the volume increase. will the close price rise along with?. If you have any idea or suggestion on this project, I would like to combine with.
